@@ -1,1 +1,0 @@
-# degree-show-2022
