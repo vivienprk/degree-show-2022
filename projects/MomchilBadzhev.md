@@ -2,7 +2,7 @@
 layout: project
 studentName: "Momchil Badzhev"
 supervisorName: "Dr Brian Pluss"
-projectTitle: "A decentralised System for Securing Credential Storage"
+projectTitle: "Developing a Local System for Secure Credential Storage"
 projectImage: "sampleImage.jpg"
 
 ---
