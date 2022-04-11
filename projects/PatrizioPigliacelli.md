@@ -3,7 +3,7 @@ layout: project
 studentName: "Patrizio Pigliacelli"
 supervisorName: "Dr Iain Martin"
 projectTitle: "3D Game"
-projectImage: "sampleImage.jpg"
+projectImage: "Journey to Geometry Island degree show.png"
 
 ---
 
