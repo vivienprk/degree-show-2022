@@ -24,7 +24,9 @@ Speaking to villagers, the player can learn what to do and where he has to go to
 A demon treats the island, and it is the player's duty, since it is all his fault, to save it by defeating the boss. It is the player's fault because... Well, if you want to know more, play the game.
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+The main finding was that coding in 3D is much different and more challenging than expected. But it was also funnier and more satisfying achieving this challenge.
+This game has various features with the most useful in the setting menu. Those are the volumes and shadows strength regulation and the ability to change the key so that the player can play using any key he prefers.
+The best aspects while playing the game are Trents and new spells obtained while levelling up. Trents are monsters that look like trees, and the player has no clue which tree is a monster and which is normal, which gives the element of surprise.
 
 ## Project Media
 If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
