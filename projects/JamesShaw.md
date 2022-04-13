@@ -1,8 +1,8 @@
 ---
 layout: project
 studentName: "James Shaw"
-supervisorName: "Alerting First-Aiders on Mobile, Based on their Localisation"
-projectTitle: "Dr Ludovic Magerand"
+supervisorName: "Dr Ludovic Magerand"
+projectTitle: "Alerting First-Aiders on Mobile, Based on their Localisation"
 projectImage: "sampleImage.jpg"
 
 ---
