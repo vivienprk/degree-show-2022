@@ -3,7 +3,7 @@ layout: project
 studentName: "Taha Kashaf"
 supervisorName: "Dr John Lawrence"
 projectTitle: "Data Mining Human Reasoning"
-projectImage: "sampleImage.jpg"
+projectImage: "vaccineData.jpeg"
 
 ---
 
@@ -14,6 +14,3 @@ My project is a Machine-Learning powered Sentiment-Analysis model aimed at class
 
 ## Project Findings
 The Project Finding can be found *soon* on my very own website, made to present the results I have found.
-
-## Project Media
-n/a
