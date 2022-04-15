@@ -8,6 +8,6 @@ projectImage: "sampleImage.jpg"
 ---
 
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+The software I have developed allows a user to build and visualise their own Spacecraft using either preloaded parts like solar panels, chassis etc or also by importing their own parts. They are also able to alter their material properties like how reflective each part is and their dimensions. After the model has been created, the user is able to export it in a standart format such as .obj
 
 
