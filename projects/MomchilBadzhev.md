@@ -3,7 +3,7 @@ layout: project
 studentName: "Momchil Badzhev"
 supervisorName: "Dr Brian Pluss"
 projectTitle: "Developing a Local System for Secure Credential Storage"
-projectImage: "sampleImage.jpg"
+projectImage: ""
 
 ---
 
