@@ -2,8 +2,8 @@
 layout: project
 studentName: "Craig Ritchie"
 supervisorName: "Dr Brian Pluss"
-projectTitle: "Game Project"
-projectImage: "sampleImage.jpg"
+projectTitle: "3D Game Set in a Fully Simulated Planetary System"
+projectImage: "ArturiusOdyssey.jpg"
 
 ---
 
