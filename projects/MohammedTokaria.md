@@ -29,11 +29,17 @@ The ability to perform mathematical operations on encrypted data necessitates th
 
 It is extremely difficult to achieve these mutual goals of strong encryption and the ability to perform mathematical operations on ciphertexts and get the correct answer. Homomorphic encryption algorithms have achieved this goal.
 
+### Homomorphic Encryption (HE)
+Homomorphic encryption is significant because it enables calculations to be performed on encrypted data. This means that data processing can be outsourced to a third party without relying on the third party to properly secure the data. The original data cannot be accessed without the correct decryption key. This ability to process encrypted data has the potential to solve many major business challenges faced by companies across all industries.
 
-## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
+### Types of Homomorphic Encryption
+The goal of homomorphic encryption is to develop an encryption algorithm that allows for an infinite number of encrypted data additions or multiplications. The result should be the ciphertext that would be produced if the same operations were performed on the corresponding plaintexts and the result was encrypted at the end of the process. Below are three types of homomorphic algorithm.
 
+#### Partially Homomorphic Encryption
+Partially homomorphic encryption algorithms allow a given operation to be repeated indefinitely. A specific algorithm, for example, may be additively homomorphic, which means that adding two ciphertexts together produces the same result as encrypting the sum of the two plaintexts.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Somewhat homomorphic encryption
+Somewhat homomorphic encryption is the next step up from partially homomorphic encryption. A somewhat homomorphic encryption algorithm allows a finite number of any operation rather than an infinite number of a specific operation.
 
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+#### Fully Homomorphic Encryption
+Fully homomorphic encryption is the holy grail of homomorphic encryption. A fully homomorphic encryption algorithm allows an infinite number of ciphertext additions or multiplications while still producing valid result
