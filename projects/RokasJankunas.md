@@ -1,6 +1,6 @@
 ---
 layout: project
-studentName: "Rokas Jankunas"
+studentName: "Rokas Jankūnas"
 supervisorName: "Dr Michael Crabb"
 projectTitle: "Emotion in Subtitling"
 projectImage: "RokasJankunas.png"
