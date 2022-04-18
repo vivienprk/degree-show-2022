@@ -15,7 +15,7 @@ You play as a maintenance robot aboard the Arturius, a colony ship that has just
 
 Throughout the game the player is provided with opportunities to sacrifice parts of their own robotics. Some examples would be; they can reduce their maximum health by 30% which will help to repair the hole in the ship, or they can lose the ability to double jump which will help the Arturius to steer out of the way of explosive mines.
 
-Depending upon the number of sacrifices and upgrades that the play makes, they will receive one of seven possible endings. All of the endings also vary slightly depending upon which specific sacrifices and upgrades were made.
+Depending upon the number of sacrifices and upgrades that the player makes, they will receive one of seven possible endings. All of the endings also vary slightly depending upon which specific sacrifices and upgrades were made.
 
 ## Features of Interest
 1. Planets and other physics objects that behave according to the law of gravitation
