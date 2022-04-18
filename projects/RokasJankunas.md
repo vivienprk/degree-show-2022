@@ -3,7 +3,7 @@ layout: project
 studentName: "Rokas Jankūnas"
 supervisorName: "Dr Michael Crabb"
 projectTitle: "Emotion in Subtitling"
-projectImage: "RokasJankunas.png"
+projectImage: "RokasJankunas01.png"
 
 ---
 
@@ -14,3 +14,6 @@ In this paper, we have researched people's associations between emotions and var
 
 ## Project Findings
 Results show that compared to traditional subtitle display, enhanced subtitles are better in expressing emotions as well as increase engagement, attention, and usability but received a mixed response in terms of endurability. Enhanced subtitles stand firmly in-between media with traditional subtitles and audible media with regard to effectiveness in expressing emotions and is a potential method of reducing the "emotional gap" for people who rely solely on subtitles to understand audible information.
+
+## Examples
+![image info](../project_images/RokasJankunas01.png) ![image info](../project_images/RokasJankunas02.png) ![image info](../project_images/RokasJankunas03.png)
