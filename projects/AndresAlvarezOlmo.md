@@ -3,7 +3,7 @@ layout: project
 studentName: "Andres Alvarez Olmo"
 supervisorName: "Prof. Stephen McKenna"
 projectTitle: "Diagnosing Skin Cancer using Deep Learning"
-projectImage: "sampleImage.jpg"
+projectImage: "andres_alvarez_olmo.png"
 
 ---
 ## Context
