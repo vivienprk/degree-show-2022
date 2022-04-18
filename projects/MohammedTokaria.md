@@ -1,9 +1,10 @@
 ---
+
 layout: project
 studentName: "Mohammed Tokaria"
 supervisorName: "Dr Brian Pluss"
 projectTitle: "Securing Students Data using Homomorphic Encryption"
-projectImage: "sampleImage.jpg"
+projectImage: "MLaaS.png"
 
 ---
 
@@ -43,3 +44,6 @@ Somewhat homomorphic encryption is the next step up from partially homomorphic e
 
 #### Fully Homomorphic Encryption
 Fully homomorphic encryption is the holy grail of homomorphic encryption. A fully homomorphic encryption algorithm allows an infinite number of ciphertext additions or multiplications while still producing valid result
+
+
+[^Image source] https://blog.openmined.org/what-is-homomorphic-encryption/
