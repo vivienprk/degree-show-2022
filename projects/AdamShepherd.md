@@ -3,7 +3,7 @@ layout: project
 studentName: "Adam Shepherd"
 supervisorName: "Prof. Annalu Waller"
 projectTitle: "PBSuk Collaboration and Learning Platform"
-projectImage: "pbsclp.jpg"
+projectImage: "pbsclp.png"
 
 ---
 
