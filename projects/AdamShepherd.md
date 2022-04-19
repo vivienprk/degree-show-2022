@@ -2,8 +2,8 @@
 layout: project
 studentName: "Adam Shepherd"
 supervisorName: "Prof. Annalu Waller"
-projectTitle: "Video Learning Platform for Health and Social Care Providers"
-projectImage: "sampleImage.jpg"
+projectTitle: "PBSuk Collaboration and Learning Platform"
+projectImage: "pbsclp.jpg"
 
 ---
 
