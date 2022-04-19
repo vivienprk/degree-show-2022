@@ -1,6 +1,6 @@
 ---
 layout: project
-studentName: "Adam Sheperd"
+studentName: "Adam Shepherd"
 supervisorName: "Prof. Annalu Waller"
 projectTitle: "Video Learning Platform for Health and Social Care Providers"
 projectImage: "sampleImage.jpg"
