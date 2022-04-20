@@ -4,7 +4,7 @@ layout: project
 studentName: "Mohammed Tokaria"
 supervisorName: "Dr Brian Pluss"
 projectTitle: "Securing Students Data using Homomorphic Encryption"
-projectImage: "sampleImage.jpg"
+projectImage: "adminhome.png"
 
 ---
 
