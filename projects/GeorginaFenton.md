@@ -26,7 +26,10 @@ The aim of the project was to end up with an add-on for the screen-reader 'NVDA'
 - The plugin was developed, swapping out the default emoji text for the created, preferred sound effect.
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+The emoji, sound, and alternative text were scored by participants on 3 scales. These scales were based on the circumplex of emotion - pleasance and activation. A highly pleasant and highly activated emoji may be something like excitement or ecstasy. The third scale was added by me for interest, how sarcastic the user thought the media was.
+
+ There were 26 sound emojis. 15 times, the sound scored a more similar result than the text compared to the emoji visual. The text was closer 8 times,  and the remaining 3 emoji did not collect enough data to compare. These findings suggest that sounds have the potential to elicit a better emotional response than plain alternative text, which is exciting considering there is a lot of room to improve the curation process of the sounds. 
+
 
 ## Project Media
 Below are three examples of the curated sounds and their associated emoji default narration.
