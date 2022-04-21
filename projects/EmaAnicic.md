@@ -3,7 +3,7 @@ layout: project
 studentName: "Ema Anicic"
 supervisorName: "Dr Daniel Rough"
 projectTitle: "End-User Creation of Smartphone-based Text Adventure Games"
-projectImage: "sampleImage.jpg"
+projectImage: "TxtAdventureGame.jpg"
 
 ---
 
