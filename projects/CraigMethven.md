@@ -13,7 +13,6 @@ Marking students code can be a time intensive process with some syntactical prob
 Written in Java, this program allows users to see errors within Java, C, C++ and C# code.
 This program aims to decreases the time it takes for lecturers and students to evaluate code in order for feedback to be received swiftly and to a higher standard.
 
-## Product Description
 An error report containing all of the errors found within the code is displayed and can be downloaded in order to be shared with students. 
 
 Checks include:
