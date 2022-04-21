@@ -3,7 +3,7 @@ layout: project
 studentName: "Adam Simpsion"
 supervisorName: "Prof. Stephen McKenna"
 projectTitle: "A Content-based Image Retrieval System for Assisting with Medical Diagnosis"
-projectImage: "sampleImage.jpg"
+projectImage: "lesionImage.jpg"
 
 ---
 
