@@ -3,7 +3,7 @@ layout: project
 studentName: "Harry Finch"
 supervisorName: "Dr Alison Pease"
 projectTitle: "Creating Software for Therapy"
-projectImage: ""
+projectImage: "difference-between-anxiety-and-stress.jpeg"
 
 ---
 
