@@ -3,34 +3,41 @@ layout: project
 studentName: "Emilija Budryte"
 supervisorName: "Dr Craig Ramsay"
 projectTitle: "A Technical Request Management System for the School of Science & Engineering"
-projectImage: "sampleImage.jpg"
-
+projectImage: "EmilijaBudryte-system.png"
 ---
 
-This is a template page that you can edit in order to present information about your project. You are free to edit this page in any way that you wish in order to give additional information about your project. The sections below are given as placeholders that you may wish to use. You will need to do 2 things:
-
-1. Update the text below in order to show off your project
-2. Alter the image associated with your project in the `project_images` folder
-
-### Notes
-This page is written in Markdown, there is a handy guide on how to use this at the [Markdown Guide](https://www.markdownguide.org/cheat-sheet/). If you want you can also use `HTML` to create your page. The site has been created using the `Flatly` bootswatch theme - you can use the [documentation for this](https://bootswatch.com/flatly/) to use any classes that may improve your page.
-
-<hr>
-
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+### The Problem
 
-## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+The School of Science and Engineering is currently using a paper-based approach to deal with incoming technical requests at the workshop, which causes many issues such as difficulty monitoring and organising paper files, lack of transparency and formality in the system as well as high paper usage.
 
-## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
+### Project Aim
 
+The aim of the project is to bring the current paper-based system up to date by developing a new accessible web-based technical request management system that could be used by three user types, namely client, supervisor and technical staff.
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Achievements
 
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+The web app is fully responsive, follows industry accessibility standards and its usability was positively evaluated by the technical staff and external users. The system imitates the request fulfilment lifecycle completely.
+
+### Functionality
+
+Main features of the system include:
+
+- Creating a new request
+- Tracking requests
+- Approving pending requests
+- Reviewing requests waiting in a queue
+- Assigning requests
+- Keeping record of materials used
+- Leaving comments under request
+- Viewing completed requests in archive
+- Administrator rights
+
+### Link to the system
+
+[A Technical Request Management System](https://request-management-syste-ee8f9.web.app/)
+
+### Technologies
+
+ReactJS, Node.js and Google Firebase were used to store user generated data, build, maintain and deploy this web application.
