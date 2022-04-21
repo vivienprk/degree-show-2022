@@ -3,7 +3,7 @@ layout: project
 studentName: "Alina Littek"
 supervisorName: "Prof Stephen McKenna, Prof Emanuele Trucco &  Dr Julieta Gomez Garcia-Donas"
 projectTitle: "Automating the Segmentation of Osteon Microstructures in Cortical Bone using Deep Learning"
-projectImage: "AlinaLittek_seg.png"
+projectImage: "AlinaLittek_seg.jpg"
 ---
 
 ## Project Description
