@@ -3,7 +3,7 @@ layout: project
 studentName: "Nick De Villiers"
 supervisorName: "Dr Michael Crabb"
 projectTitle: "Television Viewing in the Multiverse"
-projectImage: "sampleImage.jpg"
+projectImage: "nicholasdevilliers.jpg"
 ---
 
 ## Project Description
