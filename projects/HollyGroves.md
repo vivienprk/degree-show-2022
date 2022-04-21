@@ -3,7 +3,7 @@ layout: project
 studentName: "Holly Groves"
 supervisorName: "Dr Daniel Rough"
 projectTitle: "Alexa Skill Development for Energy-Saving Practices"
-projectImage: "AlexaIcon_hg.jpg"
+projectImage: "AlexaIcon_hg.png"
 
 ---
 
