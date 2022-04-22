@@ -15,24 +15,33 @@ The aim of this project is to create a tool to generate code quality metrics by 
 ## Technologies 
 
 Many technologies were utilised throughout the project...
+
 ### Frontend
+
 - [React.js](https://reactjs.org/)
 - [Prism.js](https://prismjs.com/)
 
     The frontend of the application is a React.js static web application utilising Prism.js for syntax highlighting.
+
 ### Backend
+
 - [Node.js](https://nodejs.org/en/)
 - [Express.js](https://expressjs.com/)
 
     The backend of the application is a Node.js app using Express.js to serve api requests and the static React.js files.
+
 ### Testing
+
 - [Jest](https://jestjs.io/)
 
     Testing and testing coverage collection is performed using Jest.
+
 ### Docs
+
 - [JSDoc](https://jsdoc.app/)
 
     Source code is commented to the JSDoc standard to extract and generate documentation.
+
 ### Deployment
 - [Heroku](https://www.heroku.com/)
     
@@ -40,7 +49,9 @@ Many technologies were utilised throughout the project...
 
 ## Project Findings
 
-The final created artifact is a web application that allows the user to edit source code with IDE tools such as auto-complete and auto-fill. The results of analysis on the source code are displayed to the user.
+The final created artifact is a web application that allows the user to edit source code with IDE tools such as auto-complete and auto-fill. 
+
+Analysis is performed on the source code in the form of:
 
 <span style="color:rgb(52, 152, 219)">Syntactical Analysis</span> Does the code fit the syntax of the language.
 
@@ -48,10 +59,11 @@ The final created artifact is a web application that allows the user to edit sou
 
 <span style="color:rgb(52, 152, 219)">Complexity Analysis</span> How complex is a function, how many tests will it take to ensure a function is fully tested.
 
+This analysis is then displayed to the user within the application.
 
-## Screenshots
+## Project Media
 
 <p align="center">
-<img width="auto" height="250" src="../project_images/ChristyMcCarronAutoComplete.png"/></img>
+<img src="../project_images/ChristyMcCarronAutoComplete.png"/></img>
 <img src="../project_images/christyMcCarronScreenshot.png"/></img>
 </p>
