@@ -3,7 +3,7 @@ layout: project
 studentName: "Christy McCarron"
 supervisorName: "Craig Ramsay"
 projectTitle: "Code Quality Analysis"
-projectImage: "christyMcCarronScreenshot"
+projectImage: "christyMcCarronScreenshot.png"
 
 ---
 
