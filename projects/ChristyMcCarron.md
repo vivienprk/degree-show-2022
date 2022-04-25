@@ -2,35 +2,68 @@
 layout: project
 studentName: "Christy McCarron"
 supervisorName: "Craig Ramsay"
-projectTitle: "Automated Code Quality Checking for Student Projects"
-projectImage: "sampleImage.jpg"
+projectTitle: "Code Quality Analysis"
+projectImage: "christyMcCarronScreenshot.png"
 
 ---
 
-This is a template page that you can edit in order to present information about your project. You are free to edit this page in any way that you wish in order to give additional information about your project. The sections below are given as placeholders that you may wish to use. You will need to do 2 things:
-
-1. Update the text below in order to show off your project
-2. Alter the image associated with your project in the `project_images` folder
-
-### Notes
-This page is written in Markdown, there is a handy guide on how to use this at the [Markdown Guide](https://www.markdownguide.org/cheat-sheet/). If you want you can also use `HTML` to create your page. The site has been created using the `Flatly` bootswatch theme - you can use the [documentation for this](https://bootswatch.com/flatly/) to use any classes that may improve your page.
-
-<hr>
-
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+Writing quality code is not only one of the most important skills a developer can learn, ensuring that code is high quality is key to ensuring the success of a development organisation. 
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+The aim of this project is to create a tool to generate code quality metrics by performing static code quality analysis.
+
+## Technologies 
+
+Many technologies were utilised throughout the project...
+
+### Frontend
+
+- [React.js](https://reactjs.org/)
+- [Prism.js](https://prismjs.com/)
+
+    The frontend of the application is a React.js static web application utilising Prism.js for syntax highlighting.
+
+### Backend
+
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+
+    The backend of the application is a Node.js app using Express.js to serve api requests and the static React.js files.
+
+### Testing
+
+- [Jest](https://jestjs.io/)
+
+    Testing and testing coverage collection is performed using Jest.
+
+### Docs
+
+- [JSDoc](https://jsdoc.app/)
+
+    Source code is commented to the JSDoc standard to extract and generate documentation.
+
+### Deployment
+- [Heroku](https://www.heroku.com/)
+    
+    Heroku was used as the deployment platform for creating artifacts to be tested by users.
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+
+The final created artifact is a web application that allows the user to edit source code with IDE tools such as auto-complete and auto-fill. 
+
+Analysis is performed on the source code in the form of:
+
+<span style="color:rgb(52, 152, 219)">Syntactical Analysis</span> Does the code fit the syntax of the language.
+
+<span style="color:rgb(52, 152, 219)">Code Smells</span> A generalised term for problem parts of code that don’t break syntax e.g. too many parameters in a function.
+
+<span style="color:rgb(52, 152, 219)">Complexity Analysis</span> How complex is a function, how many tests will it take to ensure a function is fully tested.
+
+This analysis is then displayed to the user within the application.
 
 ## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
 
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+<p align="center">
+<img src="../project_images/ChristyMcCarronAutoComplete.png"/></img>
+<img src="../project_images/christyMcCarronScreenshot.png"/></img>
+</p>
