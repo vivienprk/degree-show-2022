@@ -4,8 +4,7 @@ studentName: "Ayodeji Shote"
 supervisorName: "Dr Vladimir Janic"
 projectTitle: "Added Sugars Correlation to being overweight using Big Data Analysis"
 projectImage: "Sugar.jpg"
-
-<hr>
+---
 
 ## Project Description
 This project aims to calculate the correlation added sugar consumption and the increase in the overweight population of a country. It will achieve this by analysing two datasets with over 10 thousand entries in order to determine the correlation between these, and then use that correlation to predict the future adult overweight population to demonstrate how detrimental this issue will be in the future.
