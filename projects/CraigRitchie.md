@@ -2,35 +2,29 @@
 layout: project
 studentName: "Craig Ritchie"
 supervisorName: "Dr Brian Pluss"
-projectTitle: "Game Project"
-projectImage: "sampleImage.jpg"
+projectTitle: "3D Game Set in a Fully Simulated Planetary System"
+projectImage: "ArturiusOdyssey.jpg"
 
 ---
 
-This is a template page that you can edit in order to present information about your project. You are free to edit this page in any way that you wish in order to give additional information about your project. The sections below are given as placeholders that you may wish to use. You will need to do 2 things:
-
-1. Update the text below in order to show off your project
-2. Alter the image associated with your project in the `project_images` folder
-
-### Notes
-This page is written in Markdown, there is a handy guide on how to use this at the [Markdown Guide](https://www.markdownguide.org/cheat-sheet/). If you want you can also use `HTML` to create your page. The site has been created using the `Flatly` bootswatch theme - you can use the [documentation for this](https://bootswatch.com/flatly/) to use any classes that may improve your page.
-
-<hr>
-
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+The Arturius Odyssey is a first person shooter set within a fully simulated small scale planetary system, where the largest planet has a radius of only 105m. It was heavily inspired by the video games Outer Wilds (Mobius Digital, 2019) and Doom (id Software, 2016), which influenced the space gameplay and the combat gameplay respectively.
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+## Game Premise
+You play as a maintenance robot aboard the Arturius, a colony ship that has just arrived within an unexplored planetary system. Unfortunately the Arturius is attacked by a hostile alien species, creating a large hole in the hull. You, as well as nine cryogenic pods, are sucked out into open space. Your objectives are to find and recover the cryo pods, and to help repair the Arturius.
 
-## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+Throughout the game the player is provided with opportunities to sacrifice parts of their own robotics. Some examples would be; they can reduce their maximum health by 30% which will help to repair the hole in the ship, or they can lose the ability to double jump which will help the Arturius to steer out of the way of explosive mines.
 
-## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
+Depending upon the number of sacrifices and upgrades that the player makes, they will receive one of seven possible endings. All of the endings also vary slightly depending upon which specific sacrifices and upgrades were made.
 
+## Features of Interest
+1. Planets and other physics objects that behave according to the law of gravitation
+2. An atmosphere shader that is somewhat based on reality
+3. A volumetric cloud shader that is somewhat based on reality
+4. Enemy AI that utilises the state design pattern and the A* pathfinding algorithm
+5. First person shooting
+6. Snow deformation
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Video Demo
 
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/i8F6-QdhEE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
