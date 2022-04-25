@@ -7,30 +7,13 @@ projectImage: "sampleImage.jpg"
 
 ---
 
-This is a template page that you can edit in order to present information about your project. You are free to edit this page in any way that you wish in order to give additional information about your project. The sections below are given as placeholders that you may wish to use. You will need to do 2 things:
-
-1. Update the text below in order to show off your project
-2. Alter the image associated with your project in the `project_images` folder
-
-### Notes
-This page is written in Markdown, there is a handy guide on how to use this at the [Markdown Guide](https://www.markdownguide.org/cheat-sheet/). If you want you can also use `HTML` to create your page. The site has been created using the `Flatly` bootswatch theme - you can use the [documentation for this](https://bootswatch.com/flatly/) to use any classes that may improve your page.
-
 <hr>
 
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+The School of Science & Engineering (SSEN) has a workshop and several other machine shops that can be used to create, repair and maintain equipment, apparatus, and other items by full-time technicians.
+The workshop staff currently operate a paper-based request system which requires those wishing to submit a request to complete a form with contact details, the nature of the request, and even enquire about the use of specific materials.
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
-
-## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
-
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+The aim of the Honours project was to create a software application to replace the current paper based system.  The web solution, developed using PHP, provides many features which will help workshop technicians better manage requests and aid efficient utilisation of resources.
+Some noteworthy features of an online request include: adding an item of material or equipment; automated e-mail receipt; status tracking from request review through to job completion.
