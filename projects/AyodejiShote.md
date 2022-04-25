@@ -13,15 +13,15 @@ This project aims to calculate the correlation added sugar consumption and the i
 After analysing the datasets this project found that there was a direct correlationtion between the consumption of sugar and the increase in the overweight population for the world and a plethora of countries. This direct correlation was is shown in the R Squared value of 0.87 meaning it is extremely likely. 
 
 ### The Worlds future overweight population Visualised
-![Image showing correlation calculated for the Worlds total population](eval.jpg)
+![Image showing correlation calculated for the Worlds total population](\project_images\eval.jpg)
 This is the First image that shows the blue points as the actual values of sugar consumption, while the red values show the points calculated from machine learning.
 ### USA's future overweight population Visualised
-![Image showing correlation calculated for Egypt](USA.jpg)
-![Table showing correlation calculated for USA](Usatable.jpg)
+![Image showing correlation calculated for Egypt](\project_images\USA.jpg)
+![Table showing correlation calculated for USA](\project_images\Usatable.jpg)
 
 ### Egypts future overweight population Visualised
-![Image showing correlation calculated for Egypt](Egypt.jpg)
-![Table showing correlation calculated for Egypt](Egypt table.jpg)
+![Image showing correlation calculated for Egypt](\project_images\Egypt.jpg)
+![Table showing correlation calculated for Egypt](\project_images\Egypt table.jpg)
 
 To drive home the point of how detrimental this problem is the predictions start from 2014, but recent data has revelied that egypts overweight poulation is already significantly higher at 54% from 2014.
 
