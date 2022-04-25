@@ -3,34 +3,37 @@ layout: project
 studentName: "Georgina Fenton"
 supervisorName: "Dr Rachel Menzies"
 projectTitle: "Emoji for Blind Users"
-projectImage: "sampleImage.jpg"
+projectImage: "EmojiBLV.png"
 
 ---
+## Project
+Emojis are small pictograms, smileys, or logos embedded into text. For users that use screen readers, an emoji is identified and read aloud by its 'descriptor'. Such as, 'Face with tears of joy'.
 
-This is a template page that you can edit in order to present information about your project. You are free to edit this page in any way that you wish in order to give additional information about your project. The sections below are given as placeholders that you may wish to use. You will need to do 2 things:
+There are currently 39 million blind people on Earth, meaning that if they were to navigate online a screen reader would be one of the few ways to do so.
 
-1. Update the text below in order to show off your project
-2. Alter the image associated with your project in the `project_images` folder
+It is proven that the visual depiction of emoji provides a gigantic number of social cues, benefits, and generally 'richer' communication for users. However, due to emojis being replaced by simple narration, blind users miss out on all the aforementioned benefits.
 
-### Notes
-This page is written in Markdown, there is a handy guide on how to use this at the [Markdown Guide](https://www.markdownguide.org/cheat-sheet/). If you want you can also use `HTML` to create your page. The site has been created using the `Flatly` bootswatch theme - you can use the [documentation for this](https://bootswatch.com/flatly/) to use any classes that may improve your page.
+Therefore the idea for this look at an under explored way to convey emoji emotional playfulness: sound effects
 
 <hr>
 
-## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+## Steps
+The aim of the project was to end up with an add-on for the screen-reader 'NVDA', this add on would attach to the screen reader and work to swap out the emoji alternative text narration with the custom tones. To do this:
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+- First the emojis were selected, this was based on the top 100 most popular emojis of 2021. The top 20 were selected and an additional 12 to cover more bases were also selected.
+- Once emojis were selected, two sets of sounds were created by one voice actress sourced from reddit and the other a friend of mine. Having two versions was important as the creation of the sounds was largely up to interpretation.
+- A survey was the developed to analyse the effectiveness of the sounds, comparing them to the emoji visual depictions as well as the text descriptors. This survey was also used to find which sound was preferred for each emoji.
+- The plugin was developed, swapping out the default emoji text for the created, preferred sound effect.
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+The emoji, sound, and alternative text were scored by participants on 3 scales. These scales were based on the circumplex of emotion - pleasance and activation. A highly pleasant and highly activated emoji may be something like excitement or ecstasy. The third scale was added by me for interest, how sarcastic the user thought the media was.
+
+ There were 26 sound emojis. 15 times, the sound scored a more similar result than the text compared to the emoji visual. The text was closer 8 times,  and the remaining 3 emoji did not collect enough data to compare. These findings suggest that sounds have the potential to elicit a better emotional response than plain alternative text, which is exciting considering there is a lot of room to improve the curation process of the sounds. 
+
 
 ## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
+Below are three examples of the curated sounds and their associated emoji default narration.
 
+<iframe width="100%" height="500" src="https://youtu.be/1ef3GSAlEas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+Thank you!

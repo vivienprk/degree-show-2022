@@ -2,9 +2,8 @@
 layout: project
 studentName: "Adam Simpsion"
 supervisorName: "Prof. Stephen McKenna"
-projectTitle: "Learning a representation of skin lesion images using a variational autoencoder "
-projectImage: "sampleImage.jpg"
-
+projectTitle: "A Content-based Image Retrieval System for Assisting with Medical Diagnosis"
+projectImage: "lesionImage.jpg"
 ---
 <hr>
 

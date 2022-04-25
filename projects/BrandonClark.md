@@ -2,35 +2,31 @@
 layout: project
 studentName: "Brandon Clark"
 supervisorName: "Dr Jacky Visser"
-projectTitle: "Advanced Physical Computing"
-projectImage: "sampleImage.jpg"
+projectTitle: "Development of a self-contained environment mapping artefact"
+projectImage: "Environment_mapper.jpg"
 
 ---
 
-This is a template page that you can edit in order to present information about your project. You are free to edit this page in any way that you wish in order to give additional information about your project. The sections below are given as placeholders that you may wish to use. You will need to do 2 things:
-
-1. Update the text below in order to show off your project
-2. Alter the image associated with your project in the `project_images` folder
-
-### Notes
-This page is written in Markdown, there is a handy guide on how to use this at the [Markdown Guide](https://www.markdownguide.org/cheat-sheet/). If you want you can also use `HTML` to create your page. The site has been created using the `Flatly` bootswatch theme - you can use the [documentation for this](https://bootswatch.com/flatly/) to use any classes that may improve your page.
-
-<hr>
 
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
+With the world being connected more every day, wireless technologies are becoming a crutch for many devices. This became the caveat for the project. The aim of this device  was to create a fully self contained handheld artefact that will map a room with attention to an environmental factor. This makes mapping in areas such a mines or crypts where network connectivity isn’t possible, achievable.
 
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+### Requirements
+- Handheld
+- No required wireless connection
+- Intuitive processed data  
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+To achieve a level of localisation, an IMU was used. This approach isn’t without its flaw. IMUs experience drift due to gravity which means all axes became very imprecise very quickly especially with lower quality parts. This presents an issue but with some work arounds, acceptable results are achievable.
+
+What has been created is a lightweight, handheld SLAM based room mapping device for use with a monopod and a gimbal mount. This device is expandable and modular with use of better or different sensors to be used in different use cases. 
+Also included is an extension of the DP-SLAM software to include overlays of the chosen sensor (Humidity & Temperature) and export a PNG.
+
+
 
 ## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
+Attached is a playlist of tests at different stages of development 
+
+<iframe width=100% height="500" src="https://www.youtube.com/embed/videoseries?list=PL_u1CSI3fmsWf8zcTtAbwi56pIwcae1B1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy

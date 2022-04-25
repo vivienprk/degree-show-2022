@@ -1,0 +1,31 @@
+---
+layout: project
+studentName: "Craig Methven"
+supervisorName: "Dr Craig Ramsay"
+projectTitle: "Automated Code Quality Checking for Student Projects"
+projectImage: "codeCheckerGUI.png"
+
+---
+
+## Project Description
+Marking students code can be a time intensive process with some syntactical problems never being brought to light due to the time it would take to comment on each occurrence of the issue.
+
+Written in Java, this program allows users to see errors within Java, C, C++ and C# code.
+This program aims to decreases the time it takes for lecturers and students to evaluate code in order for feedback to be received swiftly and to a higher standard.
+
+## Product Description
+An error report containing all of the errors found within the code is displayed and can be downloaded in order to be shared with students. 
+
+Checks include:
+- Checking that methods and classes have a comment above them
+- Checking that recursive functions take in at least one parameter
+- Checking that variable, method and class names match naming convensions
+- Checking that methods are not too large
+- Checking that strings are compared correctly
+
+Additional functionality is also present with the ability to search for terms and compare against other code.
+
+These error reports can also be displayed beside the code in order for the marker to see the error in context quickly.
+
+The source code can be viewed at: https://github.com/CraigMethven/CodeChecker
+
