@@ -2,35 +2,28 @@
 layout: project
 studentName: "Ayodeji Shote"
 supervisorName: "Dr Vladimir Janic"
-projectTitle: "Big Data Project"
-projectImage: "sampleImage.jpg"
-
----
-
-This is a template page that you can edit in order to present information about your project. You are free to edit this page in any way that you wish in order to give additional information about your project. The sections below are given as placeholders that you may wish to use. You will need to do 2 things:
-
-1. Update the text below in order to show off your project
-2. Alter the image associated with your project in the `project_images` folder
-
-### Notes
-This page is written in Markdown, there is a handy guide on how to use this at the [Markdown Guide](https://www.markdownguide.org/cheat-sheet/). If you want you can also use `HTML` to create your page. The site has been created using the `Flatly` bootswatch theme - you can use the [documentation for this](https://bootswatch.com/flatly/) to use any classes that may improve your page.
+projectTitle: "Added Sugars Correlation to being overweight using Big Data Analysis"
+projectImage: "Sugar.jpg"
 
 <hr>
 
 ## Project Description
-This should include a brief decription of your project. I love cheese, especially the big cheese roquefort. Cheese and wine cream cheese stilton parmesan cut the cheese who moved my cheese smelly cheese cheese triangles. Cream cheese edam swiss gouda roquefort cheese triangles taleggio cauliflower cheese. Cheese and biscuits swiss dolcelatte cow cheeseburger feta brie.
-
-- Cheddar st. agur blue cheese cheese and wine.
-- Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental.
-- When the cheese comes out everybody's happy
+This project aims to calculate the correlation added sugar consumption and the increase in the overweight population of a country. It will achieve this by analysing two datasets with over 10 thousand entries in order to determine the correlation between these, and then use that correlation to predict the future adult overweight population to demonstrate how detrimental this issue will be in the future.
 
 ## Project Findings
-This section should talk about the main findings of your project and the key parts that you want to show off.
+After analysing the datasets this project found that there was a direct correlationtion between the consumption of sugar and the increase in the overweight population for the world and a plethora of countries. This direct correlation was is shown in the R Squared value of 0.87 meaning it is extremely likely. 
 
-## Project Media
-If you are really keen you can also create a video to demonstrate your project and embed this in the page. An example of a youTube video being embedded is below. You will want to change the width of this to be 100% and put the height as something around 500.
+### The Worlds future overweight population Visualised
+![Image showing correlation calculated for the Worlds total population](eval.jpg)
+This is the First image that shows the blue points as the actual values of sugar consumption, while the red values show the points calculated from machine learning.
+### USA's future overweight population Visualised
+![Image showing correlation calculated for Egypt](USA.jpg)
+![Table showing correlation calculated for USA](Usatable.jpg)
 
+### Egypts future overweight population Visualised
+![Image showing correlation calculated for Egypt](Egypt.jpg)
+![Table showing correlation calculated for Egypt](Egypt table.jpg)
 
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/YUEaupJk5AI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+To drive home the point of how detrimental this problem is the predictions start from 2014, but recent data has revelied that egypts overweight poulation is already significantly higher at 54% from 2014.
 
-Cheddar st. agur blue cheese cheese and wine. Fondue cheesy grin taleggio paneer caerphilly cheese strings cheesy feet emmental. When the cheese comes out everybody's happy
+[^1]: Photo by <a href="https://unsplash.com/@myriamzilles?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Myriam Zilles</a> on <a href="https://unsplash.com/s/photos/sugar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>.
